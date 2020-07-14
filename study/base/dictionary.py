@@ -1,0 +1,10 @@
+dict1 = {'name': 'Jax', 'age': 25}
+print(type(dict1))
+print(dict1)
+dict2 = dict(name='Bob', age=24)
+print(dict2)
+dict3 = dict([('name', 'Tom'), ('age', 24)])
+print(dict3)
+print(dict3['name'])
+print('name' in dict3)
+print(type({'name', 'age'}))
