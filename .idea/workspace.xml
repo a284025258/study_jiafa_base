@@ -2,15 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="97f7d8e0-4ab4-4d17-82e1-91f479492344" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/study/study_webservice/test_action_chains.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/study/study_webservice/test_js.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/study/study_webservice/test_keys.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/study/study_webservice/test_roll.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/study/study_webservice/test_switch_iframe.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/study/base/set.py" beforeDir="false" afterPath="$PROJECT_DIR$/study/base/set.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/study/study_webdriver/test_webdriver.py" beforeDir="false" afterPath="$PROJECT_DIR$/study/study_webdriver/test_webdriver.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -54,7 +46,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../project_interface" />
     <property name="run.code.analysis.last.selected.profile" value="aDefault" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.selected.configurable" value="terminal" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -116,7 +108,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/study/study_webservice/test_action_chains.py" />
+      <option name="SCRIPT_NAME" value="D:\pychram_workspace\study_base\study\study_webdriver\test_action_chains.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -138,7 +130,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/study/study_webservice/test_js.py" />
+      <option name="SCRIPT_NAME" value="D:\pychram_workspace\study_base\study\study_webdriver\test_js.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -160,7 +152,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/study/study_webservice/test_keys.py" />
+      <option name="SCRIPT_NAME" value="D:\pychram_workspace\study_base\study\study_webdriver\test_keys.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -182,7 +174,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/study/study_webservice/test_roll.py" />
+      <option name="SCRIPT_NAME" value="D:\pychram_workspace\study_base\study\study_webdriver\test_roll.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -235,6 +227,7 @@
       <workItem from="1594704023701" duration="618000" />
       <workItem from="1594776281107" duration="11816000" />
       <workItem from="1594793754861" duration="8926000" />
+      <workItem from="1594816953634" duration="251000" />
     </task>
     <servers />
   </component>
