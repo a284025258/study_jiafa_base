@@ -2,7 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="97f7d8e0-4ab4-4d17-82e1-91f479492344" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/deployment.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/study/study_webdriver/test_open_new_window.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/study/study_webdriver/test_upload.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/study/study_webdriver/upload.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/lemon.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/lemon.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/study_webdriver/test_roll.py" beforeDir="false" afterPath="$PROJECT_DIR$/study/study_webdriver/test_roll.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -46,18 +53,19 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../project_interface" />
     <property name="run.code.analysis.last.selected.profile" value="aDefault" />
-    <property name="settings.editor.selected.configurable" value="terminal" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\pychram_workspace\study_base\study\study_webdriver" />
+      <recent name="D:\PycharmProjects\lemon\study\project\testcase" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\PycharmProjects\lemon\study\homework" />
       <recent name="D:\PycharmProjects\lemon\study\project\lib" />
       <recent name="D:\PycharmProjects\lemon\study\project\data" />
       <recent name="D:\PycharmProjects\lemon\study\project\common" />
       <recent name="D:\PycharmProjects\lemon" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\PycharmProjects\lemon\study\project\testcase" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -72,8 +80,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.test_roll">
-    <configuration name="set" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.upload">
+    <configuration name="test_open_new_window" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="lemon" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -81,12 +89,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/study/base" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/study/study_webdriver" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/study/base/set.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/study/study_webdriver/test_open_new_window.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -95,7 +103,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="test_action_chains" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="test_roll (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="lemon" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -103,56 +111,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/study/study_webservice" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/study/study_webdriver" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="D:\pychram_workspace\study_base\study\study_webdriver\test_action_chains.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="test_js" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="lemon" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/study/study_webservice" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="D:\pychram_workspace\study_base\study\study_webdriver\test_js.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="test_keys" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="lemon" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/study/study_webservice" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="D:\pychram_workspace\study_base\study\study_webdriver\test_keys.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/study/study_webdriver/test_roll.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -183,13 +147,57 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="test_upload" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="lemon" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/study/study_webdriver" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/study/study_webdriver/test_upload.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="upload" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="lemon" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/study/study_webdriver" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/study/study_webdriver/upload.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.upload" />
+        <item itemvalue="Python.test_upload" />
+        <item itemvalue="Python.test_open_new_window" />
         <item itemvalue="Python.test_roll" />
-        <item itemvalue="Python.test_js" />
-        <item itemvalue="Python.set" />
-        <item itemvalue="Python.test_keys" />
-        <item itemvalue="Python.test_action_chains" />
+        <item itemvalue="Python.test_roll (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -227,8 +235,17 @@
       <workItem from="1594704023701" duration="618000" />
       <workItem from="1594776281107" duration="11816000" />
       <workItem from="1594793754861" duration="8926000" />
-      <workItem from="1594816953634" duration="251000" />
+      <workItem from="1594816953634" duration="3973000" />
+      <workItem from="1594820949117" duration="3494000" />
     </task>
+    <task id="LOCAL-00001" summary="变更 study_webdriver 相关模块路径">
+      <created>1594817356245</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1594817356245</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -250,8 +267,14 @@
       </map>
     </option>
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="变更 study_webdriver 相关模块路径" />
+    <option name="LAST_COMMIT_MESSAGE" value="变更 study_webdriver 相关模块路径" />
+  </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/study_base$test_roll.coverage" NAME="test_roll Coverage Results" MODIFIED="1594817810163" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/study/study_webservice" />
     <SUITE FILE_PATH="coverage/lemon$test_flask.coverage" NAME="test_flask Coverage Results" MODIFIED="1594607034874" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/study/study_flask" />
+    <SUITE FILE_PATH="coverage/study_base$test_roll__1_.coverage" NAME="test_roll (1) Coverage Results" MODIFIED="1594817749442" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/study/study_webdriver" />
     <SUITE FILE_PATH="coverage/lemon$homework_0707.coverage" NAME="homework_0707 Coverage Results" MODIFIED="1594200913354" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/study/homework" />
     <SUITE FILE_PATH="coverage/lemon$study_re.coverage" NAME="study_re Coverage Results" MODIFIED="1593767868191" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/study/study_re" />
     <SUITE FILE_PATH="coverage/lemon$login_run_test__1_.coverage" NAME="login_run_test (1) Coverage Results" MODIFIED="1593578216794" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/study/study_unittest_pro" />
@@ -274,13 +297,16 @@
     <SUITE FILE_PATH="coverage/lemon$config.coverage" NAME="config Coverage Results" MODIFIED="1593586491283" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/study/study_config" />
     <SUITE FILE_PATH="coverage/lemon$Unittests_for_test_login_LoginTestCase_test_login_case.coverage" NAME="Unittests for test_login.LoginTestCase.test_login_case Coverage Results" MODIFIED="1593676985191" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/study/project/testcase" />
     <SUITE FILE_PATH="coverage/lemon$study_pymysql.coverage" NAME="study_pymysql Coverage Results" MODIFIED="1593741721545" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/study/study_pdbc" />
+    <SUITE FILE_PATH="coverage/study_base$test_upload.coverage" NAME="test_upload Coverage Results" MODIFIED="1594823884136" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/study/study_webdriver" />
     <SUITE FILE_PATH="coverage/lemon$test_js.coverage" NAME="test_js Coverage Results" MODIFIED="1594803717666" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/study/study_webservice" />
     <SUITE FILE_PATH="coverage/lemon$test_mock.coverage" NAME="test_mock Coverage Results" MODIFIED="1594027133755" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/study/study_mock" />
     <SUITE FILE_PATH="coverage/lemon$constant.coverage" NAME="constant Coverage Results" MODIFIED="1593678593020" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/study/project/common" />
     <SUITE FILE_PATH="coverage/lemon$test_keys.coverage" NAME="test_keys Coverage Results" MODIFIED="1594801773149" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/study/study_webservice" />
     <SUITE FILE_PATH="coverage/lemon$http_session.coverage" NAME="http_session Coverage Results" MODIFIED="1593670906388" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/study/study_requests" />
+    <SUITE FILE_PATH="coverage/study_base$upload.coverage" NAME="upload Coverage Results" MODIFIED="1594824476802" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/study/study_webdriver" />
     <SUITE FILE_PATH="coverage/lemon$test_action_chains.coverage" NAME="test_action_chains Coverage Results" MODIFIED="1594800549825" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/study/study_webservice" />
     <SUITE FILE_PATH="coverage/lemon$test_switch_iframe.coverage" NAME="test_switch_iframe Coverage Results" MODIFIED="1594783733020" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/study/study_webservice" />
+    <SUITE FILE_PATH="coverage/study_base$test_open_new_window.coverage" NAME="test_open_new_window Coverage Results" MODIFIED="1594818451846" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/study/study_webdriver" />
     <SUITE FILE_PATH="coverage/lemon$login_run_test.coverage" NAME="login_run_test Coverage Results" MODIFIED="1593581788568" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/study/study_ddt" />
   </component>
 </project>

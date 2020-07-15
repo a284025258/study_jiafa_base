@@ -11,12 +11,8 @@ driver.maximize_window()
 driver.implicitly_wait(10)
 wait = WebDriverWait(driver, 10)
 driver.get('https://www.12306.cn')
-element_link = driver.find_element_by_xpath('//*/img[@src="./images/public.png"]')
-# 1. 滚动到指定元素可见
-# element_link.location_once_scrolled_into_view
-# 2. 通过 WebElement 对象， js 指令来滚动
-driver.execute_script('arguments[0].scrollIntoView(false);', element_link)
-# 3. 通过 window 对象，js 指令： window.scrollTo(0,document.body.scrollHeight)
-# driver.execute_script('window.scrollTo(0,document.body.scrollHeight);')
+driver.execute_script('window.open()')
+driver.switch_to.window(driver.window_handles[-1])
+driver.get('https://www.baidu.com')
 time.sleep(5)
 driver.quit()
