@@ -17,6 +17,11 @@
 # # set2.discard('hello')
 # set2.clear()
 # print(set2)
-set1 = {1, 2, 3, 4}
-set2 = {2, 3, 4, 5}
-print(1 in set1)
+# set1 = {1, 2, 3, 4}
+# set2 = {2, 3, 4, 5}
+# print(1 in set1)
+
+def add(*args, **kwargs):
+    print(sum(args) + sum(kwargs.values()))
+
+add(1, 2, 3, a=4)
